@@ -1,0 +1,7 @@
+C:\Users\malib\source\repos\QualityControl\QualityControl.Trainer\bin\Debug\QualityControl.Trainer.exe.config
+C:\Users\malib\source\repos\QualityControl\QualityControl.Trainer\bin\Debug\QualityControl.Trainer.exe
+C:\Users\malib\source\repos\QualityControl\QualityControl.Trainer\bin\Debug\QualityControl.Trainer.pdb
+C:\Users\malib\source\repos\QualityControl\QualityControl.Trainer\obj\Debug\QualityControl.Trainer.csproj.AssemblyReference.cache
+C:\Users\malib\source\repos\QualityControl\QualityControl.Trainer\obj\Debug\QualityControl.Trainer.csproj.CoreCompileInputs.cache
+C:\Users\malib\source\repos\QualityControl\QualityControl.Trainer\obj\Debug\QualityControl.Trainer.exe
+C:\Users\malib\source\repos\QualityControl\QualityControl.Trainer\obj\Debug\QualityControl.Trainer.pdb
